@@ -1,12 +1,9 @@
 ```
 # Compiled and build artifacts
-*.bin
-*.elf
-*.iso
 *.o
-boot.bin
-kernel.bin
-minios.iso
+*.obj
+*.out
+os.img
 
 # Dependencies
 node_modules/
@@ -14,7 +11,6 @@ node_modules/
 # Logs and temp files
 *.log
 *.tmp
-*.swp
 
 # Editors
 .vscode/
