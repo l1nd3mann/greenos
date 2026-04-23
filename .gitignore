@@ -1,18 +1,9 @@
 ```
-# Compiled and build artifacts
-*.o
-*.obj
-*.out
-os.img
+# Build artifacts and compiled files
+*.bin
+*.iso
+boot/
 
-# Dependencies
-node_modules/
-
-# Logs and temp files
-*.log
+# Temp files
 *.tmp
-
-# Editors
-.vscode/
-.idea/
 ```
