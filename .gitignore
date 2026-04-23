@@ -1,0 +1,22 @@
+```
+# Compiled and build artifacts
+*.bin
+*.elf
+*.iso
+*.o
+boot.bin
+kernel.bin
+minios.iso
+
+# Dependencies
+node_modules/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+```
